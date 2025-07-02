@@ -1,2 +1,2 @@
 # ExerciseSHA256
-An exercise in implementing SHA256 using strings in Python.
+An exercise in implementing BLAKESHA256 using strings in Python.
